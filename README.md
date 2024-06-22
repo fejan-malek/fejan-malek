@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a Backend Developer, passionate about PHP and Node JS. 
 
 ## 🚀 About Me
-- 🔭 I’m currently working on a Compliance management project and contributing to excersim PHP track.
+- 🔭 I’m currently working on a Compliance management project.
 - 🌱 I’m currently learning Microservices with PHP / Node JS
-- 👯 I’m looking to collaborate on an Open source project.
+- 👯 I’m contributing to the [Exercism PHP track](https://exercism.io/tracks/php) to help others learn PHP.
 - 💬 Ask me about Yii2.
 - 📫 How to reach me: fejanmalek92@gmail.com
 
