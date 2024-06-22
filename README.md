@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Backend Developer, passionate about PHP and Node JS. 
 
 ## 🚀 About Me
-- 🔭 I’m currently working on a Compliance management project.
+- 🔭 I’m currently working on a Compliance management project and contributing to excersim PHP track.
 - 🌱 I’m currently learning Microservices with PHP / Node JS
 - 👯 I’m looking to collaborate on an Open source project.
 - 💬 Ask me about Yii2.
