@@ -37,6 +37,9 @@ Welcome to my GitHub profile! I'm a Backend Developer, passionate about PHP and 
   - **Note-taking and Organization**:
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+  - **API Testing**:
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fejan-malek&show_icons=true&theme=radical)
 
